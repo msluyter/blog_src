@@ -1,4 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Mike Sluyter's Blog"
 theme = "ananke"
+
+
+pygmentsCodeFences=true
